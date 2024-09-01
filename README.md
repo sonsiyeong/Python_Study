@@ -1,6 +1,6 @@
 #  Hello, World!
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=e5f2f6&height=120&text=개발의%20기록%20by%20Son&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&text=개발의%20기록%20by%20Son&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 초보 개발자 손시영 </h2>  
